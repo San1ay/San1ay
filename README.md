@@ -10,9 +10,15 @@
 <a href="#" target="blank"><img align="right" src="https://komarev.com/ghpvc/?username=san1ay&label=Profile%20views&color=0e75b6&style=flat" alt="san1ay" height="25"/>
 </p>
 </h1>
- 
-<img align="right" alt="coding" height="200" width="200" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
+<picture>
+<source
+  srcset="https://media.giphy.com/media/daalSQR4gPYly7qvC6/giphy.gif"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="right" alt="hey you" height="130px" width="130px" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy-downsized.gif">
+</picture>
+ 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **Coding Skills.**
@@ -20,8 +26,17 @@
 - 👯 I’m looking to collaborate on **any web projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/san1ay?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="san1ay" height="30" width="40" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=san1ay&theme=radical" alt="san1ay" /> </p>
- 
+<p align="center"> 
+<picture>
+<source
+  srcset="https://github-profile-trophy.vercel.app/?username=san1ay&theme=flat"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-profile-trophy.vercel.app/?username=san1ay&theme=radical" alt="san1ay" />
+</picture>
+
+ </p>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details> <summary> <b align="center"><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages and Tools:</b> </summary>
 
 <div align="center"> 
@@ -60,13 +75,48 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+
 </div>
  </details>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <details>
   <summary> <b> <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Github Stats: </b> </summary>
-<p align="center">
-<img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=san1ay&theme=radical&show_icons=true&locale=en&layout=compact" alt="san1ay" />
-<img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=san1ay&theme=radical&show_icons=true&locale=en" alt="san1ay" />
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=san1ay&theme=radical" alt="san1ay" />
-</p>
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=san1ay&theme=buefy&show_icons=true&locale=en&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img  width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=san1ay&theme=radical&show_icons=true&locale=en&layout=compact" alt="san1ay" />
+</picture>
+ <picture>
+<source
+  srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=san1ay&theme=vue"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="200px" width="480px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=san1ay&theme=radical&layout=compact" alt="Profile summary"/>  
+</picture>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=san1ay&theme=buefy&show_icons=true&locale=en"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=san1ay&theme=radical&show_icons=true&locale=en&layout=compact" alt="san1ay" />
+</picture>
+<picture>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=san1ay&theme=buefy"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=san1ay&theme=radical&layout=compact" alt="san1ay" />
+</picture>
  </details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <picture>
+<source
+  srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
+</picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
